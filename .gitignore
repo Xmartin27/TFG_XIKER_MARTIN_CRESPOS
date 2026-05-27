@@ -1,0 +1,34 @@
+# Entornos virtuales
+tfg_env/
+.venv/
+env/
+venv/
+
+# Datos procesados e intermedios (generados al ejecutar los notebooks)
+data/processed/
+data/results/
+
+# Outputs de Jupyter
+.ipynb_checkpoints/
+
+# CatBoost
+catboost_info/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Documentación interna (no publicar)
+*.md
+
+# Archivos temporales
+*.tmp
+*.log
+.env

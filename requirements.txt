@@ -1,0 +1,35 @@
+# ============================================================
+# TFG — Sistema de Recomendacion de Carteras de Inversion
+# Python 3.10+
+# Instalar: pip install -r requirements.txt
+# ============================================================
+
+# --- Core ---
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+pyarrow>=14.0.0
+joblib>=1.3.0
+
+# --- Market Data (N01 descarga precios de Yahoo Finance) ---
+yfinance>=0.2.40
+
+# --- Time-Series & Volatility (N03, N06b) ---
+hmmlearn>=0.3.0
+arch>=6.3.0
+statsmodels>=0.14.0
+
+# --- Machine Learning (N04, N05, N06a, N06b) ---
+scikit-learn>=1.4.0
+lightgbm>=4.0.0
+xgboost>=2.0.0
+catboost>=1.2.0
+optuna>=3.0.0
+
+# --- Visualisation ---
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# --- Notebooks ---
+notebook>=7.0.0
+jupyterlab>=4.0.0
