@@ -1,8 +1,5 @@
 # Sistema de Recomendación Personalizada de Carteras de Inversión
 
-TFG — Grado en Administración y Dirección de Empresas / Finanzas  
-Universidad · Curso 2025-2026
-
 ---
 
 ## Descripción
